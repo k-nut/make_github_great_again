@@ -13,6 +13,6 @@ Finally I wrote a small ipython notebook script ([`analyze_and_plot.py`](/analyz
 
 ![Plot of the data](/plot.png?raw=true)
 
-As you can see I decided to only plot data after 2006. This is a random choice but I just did not want to go back too far in history. I also resampled to one month to get smoother results.
+As you can see I decided to only plot data after 2006. This is a random choice but I just did not want to go back too far in history. I also resampled to one week to get smoother results.
 
 When looking at the plot now we come to the conclusion: Trump has not brainwashed people as much as I thought. They at least still seem to not think of him any more then before when writing commit messages.
