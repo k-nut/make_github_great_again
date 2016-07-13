@@ -9,7 +9,7 @@ The main script that I used to query is [`make_great_again_count.sql`](/make_gre
 
 So I also queried the count of all commit messages ([`new_commit_count.sql`](/new_commit_count.sql) and [`old_commit_count.sql`](/old_commit_count.sql)) and joined those later. I did it in two steps because doing all in one was too much for bigquery to export as a single csv and I did not want to setup google cloud storage.
 
-Finally I wrote a small ipython notebook script that combines all three csv files (old commits, new commits, trump commits) and plotted the data:
+Finally I wrote a small ipython notebook script ([`analyze_and_plot.py`](/analyze_and_plot.py)) that combines all three csv files (old commits, new commits, trump commits) and plotted the data:
 
 ![Plot of the data](/plot.png?raw=true)
 
