@@ -19,7 +19,7 @@ When looking at the plot now we come to the conclusion: Trump has not brainwashe
 
 
 ### Update
-When explicitly looking for the regex `^make .* great again$'` an intersting observation can be made: As one would expect there are much fewer results (only 57 in total) but they do seem to correlate with Trump getting popular. The very first commit message that follows the pattern (being `Make "arc land" great again`) appears on 2015-10-28 with all others coming after that point in time. So maybe Trump did have some influence afterall.
+When explicitly looking for the regex `^make .* great again$'` an interesting observation can be made: As one would expect there are much fewer results (only 57 in total) but they do seem to correlate with Trump getting popular. The very first commit message that follows the pattern (being `Make "arc land" great again`) appears on 2015-10-28 with all others coming after that point in time. So maybe Trump did have some influence afterall.
 
 ![Plot of the make great again data](/plot_great_again.png?raw=true)
 
