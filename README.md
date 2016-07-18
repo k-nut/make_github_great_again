@@ -24,3 +24,8 @@ When explicitly looking for the regex `^make .* great again$'` an interesting ob
 ![Plot of the make great again data](/plot_great_again.png?raw=true)
 
 Thanks to [@derhuerst](https://github.com/derhuerst) for the suggestion!
+
+### Update II
+If we change the regex to not include border checks (so change it it `make .* great again`) we get a total of 136 commits and can clearly see that this is a trend that was introduced by Trump:
+
+![Plot of the make great again data without border conidtions](/plot_without_borders.png?raw=true)
